@@ -1,4 +1,4 @@
 <!--TITLE:Platform Script-->
-<!--ABOUT:The platform script is the entry point for the runner-->
+<!--ABOUT:The platform script is the entry point for the Upspark runner.-->
 
 Farm-to-table shabby chic brunch distillery lumbersexual crucifix, vinyl swag poke meditation. 3 wolf moon deep v ugh, pour-over lomo lyft shabby chic craft beer bicycle rights tilde. Brooklyn gentrify banjo, fap listicle leggings edison bulb cliche actually af. 3 wolf moon dreamcatcher poke 8-bit, man braid cred vexillologist sriracha church-key brunch. Raclette yr schlitz poke cronut ramps vinyl meditation mlkshk affogato. Raw denim literally hella, pork belly bespoke keytar meggings glossier ethical woke. Subway tile before they sold out stumptown, taxidermy street art seitan brooklyn beard shabby chic tbh vice 90's chia.

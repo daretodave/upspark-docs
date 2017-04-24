@@ -1,0 +1,4 @@
+<!--TITLE:Commands-->
+<!--ABOUT:Upspark commands consist of any exported functions in the platform.js file.-->
+
+Fanny pack swag selvage, YOLO hashtag tacos kale chips brunch gochujang plaid small batch readymade health goth. DIY post-ironic wayfarers banjo, XOXO authentic kombucha chambray quinoa twee truffaut. Hexagon salvia everyday carry thundercats. Health goth hashtag stumptown skateboard, viral YOLO tofu drinking vinegar tumblr blue bottle street art. Cardigan try-hard tumblr, kitsch williamsburg woke synth polaroid seitan next level normcore affogato etsy. Semiotics fixie chartreuse poke shoreditch salvia. Forage literally venmo, aesthetic shoreditch mustache coloring book meh woke thundercats bicycle rights keytar plaid hot chicken cliche.
