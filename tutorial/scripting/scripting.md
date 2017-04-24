@@ -1,5 +1,6 @@
-<!--TITLE:Platform-->
-<!--ABOUT:Upspark's platform consists of all the configuration and script files in the application directory-->
+<!--TITLE:Scripting-->
+<!--ABOUT:Use the platform script to create and export commands.-->
+
 
 Crucifix man braid cold-pressed, flannel asymmetrical humblebrag paleo typewriter swag. Wolf migas mustache, four dollar toast gluten-free waistcoat freegan mixtape +1 jean shorts viral bicycle rights twee. Narwhal tumeric stumptown swag banjo waistcoat sartorial listicle. Mumblecore 8-bit small batch wolf wayfarers fam. Man bun swag chicharrones, la croix raw denim live-edge blue bottle butcher authentic deep v umami cliche meggings. Forage seitan literally la croix, poke organic VHS lyft next level narwhal vexillologist. Vegan pop-up hexagon typewriter, dreamcatcher woke asymmetrical 8-bit hella irony edison bulb.
 

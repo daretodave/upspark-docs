@@ -1,4 +1,4 @@
 [
-  "download",
-  ["platform", "platform-script"]
+  ["install", "included", "launch"],
+  ["scripting", "importing"]
 ]
