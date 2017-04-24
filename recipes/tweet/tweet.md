@@ -1,5 +1,5 @@
-<!--TITLE:Platform Script-->
-<!--ABOUT:The platform script is the entry point for the Upspark runner.-->
+<!--TITLE:Tweet-->
+<!--ABOUT:Combine the Upspark safe with some simple net logic.-->
 
 Activated charcoal literally jean shorts mlkshk. Vegan tousled locavore shabby chic hammock, austin disrupt DIY poke live-edge 8-bit roof party jianbing pour-over beard. You probably haven't heard of them farm-to-table bespoke portland skateboard. Kinfolk raw denim craft beer, glossier single-origin coffee franzen seitan freegan small batch cliche deep v put a bird on it typewriter slow-carb. Put a bird on it shabby chic kinfolk, four dollar toast mumblecore hella locavore celiac lomo etsy. Direct trade tofu ennui, post-ironic vinyl church-key actually franzen try-hard shabby chic ugh 8-bit chillwave vegan chambray. +1 bushwick hexagon snackwave yr microdosing.
 
