@@ -3,7 +3,7 @@
 
 You can get Upspark on your computer by downloading the appropriate package or installer from the [download](https://upspark.io/download) page. 
 
-Depending on your architecture the table below helps locate the [platform](https://upspark.io/documentation#platform)'s directory.  
+Refer to the table below to locate the [platform](https://upspark.io/documentation#platform)'s directory.  
 
 | Operating System 	| Platform                                      	        |
 |------------------	|-----------------------------------------------------------|

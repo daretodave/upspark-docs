@@ -1,4 +1,7 @@
 [
   ["install", "included", "launch"],
-  ["scripting", "importing"]
+  ["runner", "commands", "arguments", "execution", "history", "repl"],
+  ["logs"],
+  ["scripting", "importing"],
+  ["settings"]
 ]

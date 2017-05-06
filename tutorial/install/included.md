@@ -1,7 +1,9 @@
 <!--TITLE:Included-->
-<!--ABOUT:Upspark comes with a few files to get you started.-->
+<!--ABOUT:Upspark requires a few important files that get created on first launch.-->
 
-You'll notice after launching Upspark for the first time, a few files will exist in this directory. Here's a table explaining their purpose -
+After launching Upspark, a few important files will be created.
+
+If these core files are deleted, Upspark will create a new one in it's place with the default contents. The only exception is when the package.json is modified to load an alternative main script; Upspark will not create platform.js
 
 | File          | Purpose                                                                                                                                         |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------|

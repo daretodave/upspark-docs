@@ -1,11 +1,12 @@
 <!--TITLE:Runner-->
-<!--ABOUT:The Upspark command runner .-->
+<!--ABOUT:The runner is the face of Upspark. Execute commands and observe results.-->
 
-After launching the application, a splash screen with a loading bar will display. After a moment, the main runner will display.
-  
-By default, you can toggle the visibility and focus of the runner with the following key combination 
-```javascript
-CTRL + `
-```
+![Upspark Runner](./image/command.png)
 
-Another way to toggle the runner is to click on the Upspark tray icon.
+The three main sections of runner pictured above, from bottom left to top right are
+
+- Command History
+- Command Input
+- Command Output
+
+When opened or toggled, Upspark will focus on the command input.
