@@ -1,7 +1,11 @@
 [
   ["install", "included", "launch"],
   ["runner", "commands", "arguments", "execution", "history", "repl"],
-  ["logs"],
-  ["scripting", "importing"],
-  ["settings"]
+  ["scripting", "reloading", "function-arguments", "function-null-arguments", "function-n-arguments", "api", "background-tasks", "importing", "npm"],
+  ["safe"],
+  ["settings"],
+  ["logs"]
 ]
+
+
+
