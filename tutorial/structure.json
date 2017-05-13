@@ -3,7 +3,6 @@
   ["runner", "commands", "arguments", "execution", "history", "repl"],
   ["scripting", "reloading", "function-arguments", "function-null-arguments", "function-n-arguments", "api", "background-tasks", "importing", "npm"],
   ["safe"],
-  ["settings"],
   ["logs"]
 ]
 

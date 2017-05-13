@@ -1,6 +1,15 @@
 <!--TITLE:Safe-->
 <!--ABOUT:Upspark provides access to a 256 AES data store known as the Safe.-->
 
-Activated charcoal literally jean shorts mlkshk. Vegan tousled locavore shabby chic hammock, austin disrupt DIY poke live-edge 8-bit roof party jianbing pour-over beard. You probably haven't heard of them farm-to-table bespoke portland skateboard. Kinfolk raw denim craft beer, glossier single-origin coffee franzen seitan freegan small batch cliche deep v put a bird on it typewriter slow-carb. Put a bird on it shabby chic kinfolk, four dollar toast mumblecore hella locavore celiac lomo etsy. Direct trade tofu ennui, post-ironic vinyl church-key actually franzen try-hard shabby chic ugh 8-bit chillwave vegan chambray. +1 bushwick hexagon snackwave yr microdosing.
+The Safe is a AES-256 password encrypted file on your local machine storing sensitive information in a key value format. These key/value pairs can then be used in your scripting efforts. This is helpful for 
+- Using passwords
+- Using API keys
+- Sharing code snippets with host machine unique data
 
-Pickled raw denim biodiesel edison bulb, swag hoodie polaroid chicharrones fixie actually brooklyn tumeric gentrify. Put a bird on it franzen YOLO, thundercats chambray small batch pinterest semiotics paleo raw denim. Bitters offal blue bottle ennui etsy vinyl. Etsy tote bag mixtape trust fund, viral swag master cleanse slow-carb. Hell of messenger bag mlkshk, irony chartreuse fashion axe normcore fanny pack franzen tattooed mixtape letterpress street art gastropub. Marfa fam freegan shoreditch mlkshk +1. La croix hella post-ironic vinyl keffiyeh, church-key hoodie next level live-edge tumeric tilde salvia portland.
+Upspark provides a way to configure these key value pairs with the Safe interface.
+
+There are two ways to open the Safe interface. 
+* Execute **:safe** in the runner
+* Click *Safe* in the contact menu on your system tray
+
+After configuring the Safe, use this programmatically with the [safe api module](/documentation#safe)
