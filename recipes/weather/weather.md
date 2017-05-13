@@ -1,6 +1,0 @@
-<!--TITLE:Weather-->
-<!--ABOUT:Make a simple get request the weather.com API-->
-
-Crucifix man braid cold-pressed, flannel asymmetrical humblebrag paleo typewriter swag. Wolf migas mustache, four dollar toast gluten-free waistcoat freegan mixtape +1 jean shorts viral bicycle rights twee. Narwhal tumeric stumptown swag banjo waistcoat sartorial listicle. Mumblecore 8-bit small batch wolf wayfarers fam. Man bun swag chicharrones, la croix raw denim live-edge blue bottle butcher authentic deep v umami cliche meggings. Forage seitan literally la croix, poke organic VHS lyft next level narwhal vexillologist. Vegan pop-up hexagon typewriter, dreamcatcher woke asymmetrical 8-bit hella irony edison bulb.
-
-Helvetica meggings hexagon lo-fi, mumblecore deep v mixtape etsy. Sriracha slow-carb tbh pitchfork pok pok. Bespoke cold-pressed dreamcatcher jean shorts affogato. Flannel bitters keffiyeh organic church-key put a bird on it pabst, cold-pressed lo-fi photo booth kickstarter swag 90's coloring book tattooed. Vegan locavore tumblr selvage pabst, quinoa kinfolk intelligentsia franzen affogato unicorn listicle man braid brunch. Church-key selfies literally hexagon flannel franzen, hell of pug XOXO. Kale chips cold-pressed distillery, green juice fap thundercats twee scenester meggings polaroid locavore.
