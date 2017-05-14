@@ -1,4 +1,4 @@
 [
-  "commands",
+  ["tasks", "tasks-background", "tasks-abort", "tasks-message", "tasks-log", "tasks-complete", "tasks-error", "tasks-progress"],
   ["files", "files-platform", "files-runner-css"]
 ]

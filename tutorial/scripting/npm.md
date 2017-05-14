@@ -15,5 +15,5 @@ import * as _ from 'lodash';
 
 As a side note, you could've also used Upspark to install the module
 
-![NPM install](/image/npm-install.png)
+![NPM install](./image/npm-install.png)
 
