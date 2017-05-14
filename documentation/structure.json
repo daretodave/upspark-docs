@@ -1,4 +1,32 @@
 [
-  ["tasks", "tasks-background", "tasks-abort", "tasks-message", "tasks-log", "tasks-complete", "tasks-error", "tasks-progress"],
-  ["files", "files-platform", "files-runner-css"]
+	[
+		"system-commands", 
+			"system-reload",
+			"system-platform",
+			"system-log",
+			"system-end",
+			"system-safe",
+			"system-clear",
+			"system-exit",
+			"system-hide",
+			"system-path",
+			"system-cd",
+			"system-env",
+			"system-open",
+			"system-dev",
+			"system-settings",
+			"system-config",
+			"system-resources"
+	],
+	[
+		"tasks", 
+			"tasks-background", 
+			"tasks-abort", 
+			"tasks-message", 
+			"tasks-log", 
+			"tasks-complete", 
+			"tasks-error", 
+			"tasks-progress"
+	],
+	["files", "files-platform", "files-runner-css"]
 ]
