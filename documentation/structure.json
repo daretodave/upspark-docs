@@ -28,5 +28,9 @@
 			"tasks-error", 
 			"tasks-progress"
 	],
-	["files", "files-platform", "files-runner-css"]
+	[
+		"theme", 
+			"runner-css", 
+			"global-css"
+	]
 ]
