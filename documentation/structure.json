@@ -19,6 +19,17 @@
 			"system-resources"
 	],
 	[
+		"api",
+		["api-platform","api-platform-all","api-platform-scripts","api-platform-settings","api-platform-theme","api-platform-reload","api-platform-getpath","api-platform-getplatformcommands","api-platform-getinternalcommands","api-platform-getcommands"],
+		["api-desktop","api-desktop-text","api-desktop-html","api-desktop-image","api-desktop-rtf","api-desktop-bookmark","api-desktop-setfindtext","api-desktop-setclipboard","api-desktop-setclipboardtext","api-desktop-setclipboardhtml","api-desktop-setclipboardimage","api-desktop-setclipboardrtf","api-desktop-setclipboardbookmark","api-desktop-getclipboardformats","api-desktop-getclipboardbookmark","api-desktop-getclipboardrtf","api-desktop-getclipboardimage","api-desktop-getclipboardhtml","api-desktop-getclipboardtext","api-desktop-getfindtext","api-desktop-beep","api-desktop-openlocation","api-desktop-moveitemtotrash","api-desktop-open","api-desktop-openuri"],
+		["api-file","api-file-access","api-file-stat","api-file-chmod","api-file-chown","api-file-write","api-file-append","api-file-read","api-file-readjson","api-file-writejson","api-file-list","api-file-createpath","api-file-resolve","api-file-createfile","api-file-remove","api-file-move","api-file-copy","api-file-rename"],
+		["api-logger","api-logger-info","api-logger-error"],
+		["api-net","api-net-get","api-net-post","api-net-request"],
+		["api-runner","api-runner-gettasks","api-runner-abort","api-runner-setcwd","api-runner-getcwd","api-runner-setenv","api-runner-getenv","api-runner-show","api-runner-isvisible","api-runner-hide","api-runner-toggle","api-runner-run"],
+		["api-safe","api-safe-isunlocked","api-safe-lock","api-safe-unlock","api-safe-get"],
+		["api-settings","api-settings-reload","api-settings-setrotation","api-settings-setwidth","api-settings-setheight","api-settings-setscreen","api-settings-setx","api-settings-sety","api-settings-setoffsetx","api-settings-setoffsety","api-settings-sethotkey","api-settings-setlocation","api-settings-setsize","api-settings-setrunnercss","api-settings-setglobalcss","api-settings-setrunnertheme","api-settings-setglobaltheme","api-settings-getsettings","api-settings-getglobalcss","api-settings-getrunnercss","api-settings-getrotation","api-settings-getsize","api-settings-getwidth","api-settings-getheight","api-settings-getlocation","api-settings-getx","api-settings-gety","api-settings-getoffsetx","api-settings-getoffsety"]
+	],
+	[
 		"tasks", 
 			"tasks-background", 
 			"tasks-abort", 

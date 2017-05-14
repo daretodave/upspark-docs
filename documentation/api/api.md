@@ -1,7 +1,7 @@
 <!--TITLE:API-->
 <!--ABOUT:Upspark comes pre-packaged with a light weight promised based API to help with simple tasks.-->
 
-Upspark comes prepacked with a light weight promise based API to help with simple tasks.
+Upspark comes prepacked with a light weight *promise* based API to help with simple tasks.
 
 | Route | Description |
 |-------|-------------|
@@ -13,6 +13,7 @@ Upspark comes prepacked with a light weight promise based API to help with simpl
 | [upspark/desktop](/documentation#api-desktop) | Open host applications and control the clipboard.  |
 | [upspark/file](/documentation#api-file) | Basic file operations e.g. stat, copy, move, delete, create and more.  |
 | [upspark/net](/documentation#api-net) | Make HTTP calls with the request api.  |
+
 Here's an example of using the API in **platform.js**
 
 ```javascript
@@ -27,5 +28,3 @@ export const replace = (arg) => Desktop
 		return text;
 	})
 ```
-
-Learn all the API functionality in the [documentation](/documentation).
